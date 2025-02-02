@@ -1,3 +1,0 @@
-/home/Piotr/cpp/basics/loop/conditional/CMakeFiles/run.dir
-/home/Piotr/cpp/basics/loop/conditional/CMakeFiles/edit_cache.dir
-/home/Piotr/cpp/basics/loop/conditional/CMakeFiles/rebuild_cache.dir
