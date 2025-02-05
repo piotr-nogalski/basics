@@ -9,3 +9,6 @@
 
 /loop/build
 /loop/CMakeLists.txt
+
+/table/build
+/table/CMakeLists.txt
