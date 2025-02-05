@@ -11,7 +11,7 @@ int main()
     std::cout << "Give the number of random samples:";
     std::cin >> n;
 
-    min = dist(rd);
+    min = dist(rd); 
     max = min;
     std::cout << min << ",";
 
